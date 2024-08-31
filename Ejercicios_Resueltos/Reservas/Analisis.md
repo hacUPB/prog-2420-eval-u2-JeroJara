@@ -1,2 +1,2 @@
-#A partir del siguiente análisis, puedo distinguir los datos de salida de los de entrada, además de ver algunos condicionales importantes para la realización del programa.
+## A partir del siguiente diagrama, puedo distinguir los datos de salida de los de entrada, además de ver algunos condicionales importantes para la realización del programa.
 ![ANÁLISIS RESERVAS(ctrl+click para abrir)](<Captura de pantalla 2024-08-30 221120.png>)
