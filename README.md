@@ -1,6 +1,6 @@
 # Documentación del proyecto
 ## Unidad 2
 
-Estudiante:  
-ID:  
+Estudiante:  Jerónimo Jaramillo Rivera
+ID:  000540650
 ---
